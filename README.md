@@ -1,5 +1,8 @@
  
-
+--- ATTENTION ---
+If you find any bugs or messy code and decide to fix them, please let me know so that I can change it immediately!
+ I have little to no experience in game development, so I'm hoping that someone who knows what they're doing comes and fixes things up.
+ Thanks! ;)
 
 > Open this page at [https://git-c0mp7t3rk1d.github.io/generic-jrpg/](https://git-c0mp7t3rk1d.github.io/generic-jrpg/)
 
